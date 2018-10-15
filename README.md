@@ -4,8 +4,8 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Responsive](#Responsive)
-* [Appreciation](#Appreciation)
+* [Responsive](#responsive)
+* [Appreciation](#appreciation)
 
 
 ## Instructions
