@@ -18,7 +18,7 @@ The memory game is designed to be a one-player game. Please click on the link to
     <li>Once a card is clicked at first the <strong>Timer</strong> starts to count.</li>
     <li>A counter named <strong>Moves</strong> is set to keep track of the number of moves it takes the player to finish the game.</li>
     <li>A<strong>Move</strong> is recorded when two cards are flipped either the cards is matched or not matched.</li>
-    <li>For the game rating statistics, a maximum of 3 <strong>Stars</strong> is set based on an abritrary number of <strong>Moves</strong> .</li>
+    <li>For the game rating statistics, a maximum of 3 <strong>Stars</strong> is set based on an arbitrary number of <strong>Moves</strong> .</li>
     <li>When the player makes up to 14 <strong>Moves</strong> they lose a Star rating, another is also lost at 24 moves.</li>
     <li>The game ends when all cards are correctly matched, which displays a modal containing game statistics (Time, Moves and Stars.</li>
     
